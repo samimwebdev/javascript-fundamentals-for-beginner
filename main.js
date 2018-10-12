@@ -147,4 +147,5 @@ document.body.innerHTML = profilBuilder(profile);
 //===  equal to (simple comparision)
 //!== not equal  3 !== 5  //true
 
-//3 === 5 && 5 === 5 //Multiple compaision
+//3 === 5 && 5 === 5 //Multiple compaision(logical and)
+//3 === 5 || 5 === 5 //Multiple compaision(logical or)
